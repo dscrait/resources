@@ -14,6 +14,8 @@ Those who wanna be frontend devs, here's a really useful guide! Do check it out:
 Web Developer Roadmap: https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
 ## App Development
 
+
+A collection of all Flutter resources: https://github.com/Solido/awesome-flutter
 ## Machine Learning
 
 ## DevOps & Cloud Computing
