@@ -39,3 +39,5 @@ Collection of all Design Resources: https://github.com/bradtraversy/design-resou
 ## and
 
 ## Algorithms
+
+## Data Structure and Algorithms
