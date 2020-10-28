@@ -32,3 +32,10 @@ Full Docker Course for free: https://dev.to/techworld_with_nana/full-docker-cour
 
 
 Collection of all Design Resources: https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md#online-design-tools
+## Data
+
+## Structure
+
+## and
+
+## Algorithms
